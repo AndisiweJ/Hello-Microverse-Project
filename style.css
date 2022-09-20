@@ -1,6 +1,12 @@
-.h1{
-    background: violet;
+body{
+    color:black;
+}
+
+h1{ 
+    display: block;
+    background: white;
     font-size: x-large;
     font-family: sans-serif;
     color: blueviolet;
+
 }
